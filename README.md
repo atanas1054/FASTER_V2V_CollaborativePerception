@@ -9,7 +9,7 @@ This dataset contains synchronized LiDAR point cloud data captured from two vehi
 ## Dataset Structure
 
 For each timestamp, every vehicle provides:
-- **Point Cloud** — Raw LiDAR scan (`.pcd` or `.bin`)
+- **Point Cloud** — Raw LiDAR scan (`.pcd`)
 - **Pose File** — A `.yaml` file describing the LiDAR pose
 
 ```
